@@ -1,7 +1,7 @@
 globalValue = "Hello World"
 
 def getHello():
-    const b = "Hello"
+    b = "Hello"
     return b
 
 def main():
