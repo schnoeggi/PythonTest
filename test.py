@@ -1,6 +1,6 @@
 globalValue = "Hello World"
 
-def getHello:
+def getHello():
   const b = "Hello"
   return b
 
